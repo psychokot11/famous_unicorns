@@ -4,7 +4,7 @@
       "id": 0,
       "name": "Rarity",
       "origin": "My Little Pony Friendship is Magic",
-      "photo": "https://static.wikia.nocookie.net/mlp/images/d/d1/Rarity_standing_S1E19_CROPPED.png/revision/latest?cb=20130418142043",
+      "photo": "https://i.pinimg.com/originals/30/9a/6d/309a6d5689f62cd04bd54049de27c0c3.png",
       "can-fly": false
     },
 
@@ -12,23 +12,23 @@
       "id": 1,
       "name": "Twilight Sparkle",
       "origin": "My Little Pony Friendship is Magic",
-      "photo": "https://static.wikia.nocookie.net/mlp/images/b/bc/Princess_Twilight_Sparkle_ID_S4E26.png/revision/latest/scale-to-width-down/225?cb=20220306181401",
+      "photo": "https://upload.wikimedia.org/wikipedia/en/b/b4/PrincessTwilightSparkle.png",
       "can-fly": true
     },
 
     {
       "id": 2,
       "name": "Bumfight Sparkle",
-      "origin": "Kuce z Bronxu",
-      "photo": "https://static.wikia.nocookie.net/kuce/images/b/b5/Bumfight_Sparkle.png/revision/latest/scale-to-width-down/700?cb=20181129135237&path-prefix=pl",
+      "origin": "Kuce z Bronksu",
+      "photo": "https://dg31sz3gwrwan.cloudfront.net/actor/359006/63861201_medium-optimized-2.jpg",
       "can-fly": true
     },
 
     {
       "id": 3,
       "name": "Dziunia",
-      "origin": "Kuce z Bronxu",
-      "photo": "https://static.wikia.nocookie.net/kuce/images/0/07/Dziunia.png/revision/latest/scale-to-width-down/700?cb=20181129135408&path-prefix=pl",
+      "origin": "Kuce z Bronksu",
+      "photo": "https://1.bp.blogspot.com/-HI59wqoojA4/XgC-5I-RmrI/AAAAAAAAcNA/Dh7T3boZrF08v9vQfle7ez4r3-vazfMmgCLcBGAsYHQ/s1600/ss%2B%25282019-12-23%2Bat%2B02.17.42%2529.jpg",
       "can-fly": false
     },
 
@@ -44,7 +44,7 @@
       "id": 5,
       "name": "not provided",
       "origin": "Harry Potter",
-      "photo": "https://i0.wp.com/speakbeasty.com/wp-content/uploads/2018/11/UnicornHERO_WingedHorses_PM_B4C24M1_StudentsByWingedHorsesAndUnicorn_Moment.jpg?fit=550%2C550&ssl=1",
+      "photo": "https://i.pinimg.com/736x/ab/db/79/abdb79ac897caf0a2660038feb8fd418--this-is-me-unicorns.jpg",
       "can-fly": false
     }
   ]
